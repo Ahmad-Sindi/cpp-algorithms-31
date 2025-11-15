@@ -7,15 +7,7 @@ It demonstrates how to work with mathematical functions and basic input/output h
 
 🧠 Formula Concept
 =
-Power
-𝑛
-num
-𝑛
-Power
-n
-	​
-=num
-n
+𝑛num =  𝑛Power
 
 💡 What You’ll Learn
 -
